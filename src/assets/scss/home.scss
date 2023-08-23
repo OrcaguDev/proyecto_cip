@@ -1,0 +1,15 @@
+.contenedorHome{
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-cuadros{
+    display: flex;
+    flex-direction: row;
+    margin: 5px;
+    justify-content: center;
+}
+
+.cuadro-evento{
+    margin: 6px;
+}

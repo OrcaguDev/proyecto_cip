@@ -1,0 +1,15 @@
+.contenedorEventos{
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-cards{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    justify-content: center;
+}
+
+.cards{
+    margin: 6px;
+}
